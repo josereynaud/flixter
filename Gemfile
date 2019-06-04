@@ -75,3 +75,6 @@ end
 gem "autoprefixer-rails"
 
 gem 'simple_form'
+
+# Login
+gem 'devise'
