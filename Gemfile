@@ -74,7 +74,14 @@ end
 
 gem "autoprefixer-rails"
 
+# Forms
 gem 'simple_form'
+
+# Media Upload
+gem 'carrierwave', '~> 1.0'
+
+# Amazon S3
+gem "fog-aws"
 
 # Login
 gem 'devise'
