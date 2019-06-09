@@ -1,24 +1,5 @@
-# README
+# What is Flixter?
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a project for the University of Toronto where we build a two-sided video-streaming marketplace, featuring credit card payment capabilities, user role management, advanced UI and UX, and advanced database relationships, which is similar to other platforms like Udemy.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This was built using Ruby on Rails and PostgreSQL as the database.
