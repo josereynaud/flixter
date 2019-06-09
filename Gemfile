@@ -83,5 +83,8 @@ gem 'carrierwave', '~> 1.0'
 # Amazon S3
 gem "fog-aws"
 
+# Figaro
+gem "figaro"
+
 # Login
 gem 'devise'
