@@ -4,6 +4,7 @@ RUN mkdir /docker_app
 WORKDIR /docker_app
 COPY Gemfile /docker_app/Gemfile
 COPY Gemfile.lock /docker_app/Gemfile.lock
+RUN gem install bundler -v 2.0.1
 RUN bundle install
 COPY . /docker_app
 

@@ -88,3 +88,6 @@ gem "figaro"
 
 # Login
 gem 'devise'
+
+# Image Resolution
+gem "mini_magick"
