@@ -96,3 +96,9 @@ gem 'carrierwave-aws'
 
 # Payment Methods
 gem 'stripe'
+
+# List Ordering
+gem 'ranked-model'
+
+# JQuery UI List Rails
+gem 'jquery-ui-rails'
