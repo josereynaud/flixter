@@ -93,3 +93,6 @@ gem 'devise'
 gem "mini_magick"
 
 gem 'carrierwave-aws'
+
+# Payment Methods
+gem 'stripe'
