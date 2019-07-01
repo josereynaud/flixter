@@ -102,3 +102,6 @@ gem 'ranked-model'
 
 # JQuery UI List Rails
 gem 'jquery-ui-rails'
+
+# Font Awesome
+gem "font-awesome-rails"
