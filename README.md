@@ -1,5 +1,19 @@
-# What is Flixter?
+# Flixter
 
-This is a project for the University of Toronto where we build a two-sided video-streaming marketplace, featuring credit card payment capabilities, user role management, advanced UI and UX, and advanced database relationships, which is similar to other platforms like Udemy.
+A two sided video streaming marketplace platform, featuring credit card payment capabilities, user role management, complex user interfaces and advanced database relationships.
 
-This was built using Ruby on Rails and PostgreSQL as the database.
+## [Try it yourself!](https://flixter-jose-reynaud.herokuapp.com/)
+
+![flixter_splash](https://user-images.githubusercontent.com/49926440/62587294-33c6a000-b88f-11e9-9d97-47614928e006.png)
+
+## Built With
+
+* [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/) - Docker Container
+* [Ruby on Rails](https://rubyonrails.org/) - Ruby framework
+* [PostgreSQL](https://www.postgresql.org/) - SQL database
+* [Devise](https://github.com/plataformatec/devise) - Authentication platform
+* [Bootstrap](https://getbootstrap.com/) - CSS framework
+
+## Authors
+
+See contribution history [here](https://github.com/josereynaud/flixter/graphs/contributors)
